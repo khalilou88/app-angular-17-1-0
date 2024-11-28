@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
-import { SvgRocketLaunchIcon } from '@semantic-components/heroicons/24/solid';
+import { SvgRocketLaunchIcon } from '@semantic-icons/heroicons/24/solid';
 
 @Component({
     selector: 'app-root',
